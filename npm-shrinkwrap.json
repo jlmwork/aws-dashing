@@ -1,0 +1,23 @@
+{
+  "name": "aws-dashing",
+  "version": "0.0.1",
+  "dependencies": {
+    "dashing-js": {
+      "version": "0.1.5",
+      "from": "dashing-js@0.1.5",
+      "resolved": "https://registry.npmjs.org/dashing-js/-/dashing-js-0.1.5.tgz",
+      "dependencies": {
+        "node-sass": {
+          "version": "0.1.11",
+          "from": "node-sass@>=0.7.0 <0.8.0",
+          "resolved": "https://registry.npmjs.org/node-sass/-/node-sass-4.5.3.tgz"
+        }
+      }
+    },
+    "node-sass": {
+      "version": "0.7.0",
+      "from": "node-sass@latest",
+      "resolved": "https://registry.npmjs.org/node-sass/-/node-sass-4.5.3.tgz"
+    }
+  }
+}
